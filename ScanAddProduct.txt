@@ -1,0 +1,12 @@
+trong trang này sẽ có tên kệ (K01) và list sản phẩm của kệ đó
+
+muốn lấy tên kệ :{
+    - scan được data kệ
+    - hiện data đó lên trên title
+}
+
+hiện sản phẩm theo từng kệ :{
+    - tạo mảng để chứa các sản phẩm quét được
+    - tạo state hiển thị trạng thái của cột đang quét
+    
+}

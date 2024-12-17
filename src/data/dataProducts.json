@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": "SP1",
+            "image": "https://cdn-icons-png.flaticon.com/128/685/685388.png",
+            "title": "Sản phẩm 1",
+            "price": 149.99
+        },
+        {
+            "id": "SP2",
+            "image": "https://cdn-icons-png.flaticon.com/128/685/685388.png",
+            "title": "Sản phẩm 2",
+            "price": 59.99
+        },
+        {
+            "id": "SP3",
+            "image": "https://cdn-icons-png.flaticon.com/128/685/685388.png",
+            "title": "Sản phẩm 3",
+            "price": 99.99
+        },
+        {
+            "id": "SP4",
+            "image": "https://cdn-icons-png.flaticon.com/128/685/685388.png",
+            "title": "Sản phẩm 4",
+            "price": 29.99
+        }
+    ]
+}

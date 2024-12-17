@@ -1,0 +1,32 @@
+Màn hình :{
+    tiêu đề là Scan kệ
+    Nút scan kệ
+}
+
+data:{
+    K01: kệ 1
+    K02: kệ 2
+    K03: kệ 3
+    K04: kệ 4
+    K05: kệ 5
+}
+
+Running :{
+    khi bấm vào nút scan và bắt đầu quét thì quét ra data kệ
+    sau khi có được data kệ được quét thì đối chiếu với data kệ trong app
+    nếu trùng với kệ nào thì vào kệ đó
+}
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+    scan mã lấy được 'K01'
+    so K01 với id của shelf: lấy id của shelf để so
+    nếu K01 trùng với id của data shelf thì chuyển sang trang K01 :{
+        tạo trang thêm sản phẩm:{
+            - có header set theo id của kệ : lấy id của so với data kệ để hiện header
+            - tạo State là mảng của kệ đó để truyển sản phẩm vào state đó
+        }
+    }
+
+

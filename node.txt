@@ -1,0 +1,88 @@
+APP SCAN NHẬP KHO
+------------------------------------------------------------------------------------------------------------------------------
+target : 
+	- scan sản phẩm và bỏ sản phẩm vào từng kệ vào trong kho 
+	- app sẽ hiện đơn hàng mình đã scan vào trong kệ đó để quản lí
+user :
+	- đẩy xe hàng tới kệ
+	- scan kệ(mở kệ để thêm products)
+	- scan sản phẩm (thêm products vào kệ )
+	- user bỏ hàng vào kệ  
+	- kiểm tra xem sản phẩm đã được thêm vào trong app chưa
+device :
+	- scan (điện thoại)
+	- kết nối mạng local	
+
+	
+------------------------------------------------------------------------------------------------------------------------------
+
+Key :
+	NHÀ KHO LỚN => KẾT NỐI KÉM{
+		Diện tích lớn => một số chỗ mạng sẽ bị yếu or không có mạng để scan up sản phẩm
+	}
+
+	CHECK APP LIÊN TỤC => NÓNG MÁY{
+	  	Sử dụng ứng dụng quản lý kho liên tục có thể tiêu tốn nhiều pin và nóng máy
+	}
+
+
+	ĐIỆN THOẠI YẾU => SCAN KHÔNG MƯỢT
+	
+
+
+KẾT NỐI KÉM: {
+	- chuyển scan online thành offline và lưu nó trong list sau đó úp list vào app
+	=> dữ liệu không được cập nhật theo thời gian thực: Nếu dữ liệu không được cập nhật liên tục, thông tin về tồn kho sẽ không chính xác.
+}
+
+SCAN KHÔNG MƯỢT: {
+	- dùng máy scan chuyên dụng
+}
+
+NÓNG MÁY :{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
